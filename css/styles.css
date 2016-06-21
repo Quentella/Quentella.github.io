@@ -10,7 +10,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #00FFFF;
-  background: #00FFFF;
+  background: #ff1493;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -173,7 +173,7 @@ iframe {
   margin-bottom: 30px;
 }
 .section .section-inner {
-  background: #ff1493;
+  background: #9400D3;
   padding: 30px;
 }
 .section .heading {
